@@ -1,0 +1,42 @@
+#container {
+	width: 800px;
+	border: 1px black solid;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+}
+#top_green {
+	width: 50%;
+	height: 200px;
+	background-color: green;
+	display: inline-block;
+	border: 1px solid black;
+}
+#top_blue {
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+	display: inline-block;
+	border: 1px solid black;
+}
+#bottom_grey {
+	height: 300px;
+	width: 33.33%;
+	background-color: grey;
+	display: inline-block;
+	border: 1px solid black;
+}
+#bottom_black {
+	height: 300px;
+	width: 33.33%;
+	background-color: black;
+	display: inline-block;
+	border: 1px solid black;
+}
+#bottom_yellow {
+	height: 300px;
+	width: 33.33%;
+	background-color: yellow;
+	display: inline-block;
+	border: 1px solid black;
+}
